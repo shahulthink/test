@@ -1,0 +1,80 @@
+.logobrand{
+	margin-top: -12px;
+}
+
+#header.navbar-default {
+  position:absolute;
+  background-color: #385D8B !important;
+}
+
+.searchbox{
+	margin-top: 75px;
+text-align: center;
+}
+
+
+.sizing-addon2{
+	background-color: #fff;
+}
+
+
+
+#footer a {
+  color:#efefef;
+  text-decoration: none;
+}
+#footer {
+  
+   background-color:#414141;
+ /* margin-top:50px;*/
+  padding-top:20px;
+  /*padding-bottom:20px;*/
+}
+
+#footer ul {
+	list-style: none;
+	text-decoration: none;
+}
+#footer h3{
+	color: #fff;
+}
+
+.btn-fb{
+    color: #fff;
+    background-color:#3b5998;
+}
+.btn-fb:hover{
+    color: #fff;
+    background-color:#496ebc 
+}
+.btn-tw{
+    color: #fff;
+    background-color:#55acee;
+}
+.btn-tw:hover{
+    color: #fff;
+    background-color:#59b5fa;
+
+}
+
+.btn-gp{
+	 color: #fff;
+	 background-color:#d34836;
+}
+.btn-submit{
+	color: #fff;
+    background-color:#3b5998;
+}
+
+.btn-submit:hover{
+	color: #fff;
+    background-color:#3b5998;
+}
+.btn-joinus{
+	color: #fff;
+    background-color:#3b5998;
+}
+.btn-joinus:hover{
+	color: #fff;
+    background-color:#3b5998;
+}
